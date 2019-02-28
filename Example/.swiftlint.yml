@@ -13,8 +13,6 @@ opt_in_rules:
   - unneeded_parentheses_in_closure_argument
   - private_over_fileprivate
   - sorted_imports
-
-disabled_rules:
   - file_length
   - line_length
   - identifier_name
